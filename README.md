@@ -65,6 +65,7 @@ Angular Tree Grid allows selecting rows or cells. One or more rows or cells can 
 
 [Online example](https://ej2.syncfusion.com/angular/demos/#/bootstrap5/treegrid/default?utm_source=github&utm_medium=listing&utm_campaign=angular-tree-grid-github-samples)
 
+[Video Tutorials](https://www.syncfusion.com/tutorial-videos/angular/tree-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-tree-grid-github-samples)
 
 ## About Syncfusion Angular UI Components
 
