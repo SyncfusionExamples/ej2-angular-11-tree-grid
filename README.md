@@ -1,6 +1,6 @@
 # Angular11TreeGrid
 
-The [Angular TreeGrid](https://www.syncfusion.com/angular-components/angular-tree-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-tree-grid-github-samples) is a feature-rich control used to visualize self-referential, hierarchical data effectively in a tabular format (a tree-like structure). This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
+The [Angular Tree Grid](https://www.syncfusion.com/angular-components/angular-tree-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-tree-grid-github-samples) is a feature-rich control used to visualize self-referential, hierarchical data effectively in a tabular format (a tree-like structure). This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
 ## Development server
 
